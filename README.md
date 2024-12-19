@@ -1,6 +1,8 @@
 🙋‍♀️ hey!
-
-![output-onlinegiftools (2)](https://github.com/user-attachments/assets/203d7161-b1bd-4d78-a935-8791a16836ef)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/d354071e-274d-4b66-8940-f1c830d7cdd9" alt="Snoopy GIF" width="500"/>
+    <img src="https://github.com/user-attachments/assets/ea2c60c6-0a95-43d5-924a-9557fc48b122" alt="Photo" width="150"/>
+</div>
 
 🎀 just here for cute stuff
 
