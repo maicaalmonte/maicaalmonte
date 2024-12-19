@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# hey! hey! hey!
 
 ![_SnoopyMania__ foto](https://github.com/user-attachments/assets/52464be9-a995-4c4b-ade8-ee16e1efd4b5)
 .gif
@@ -6,7 +6,7 @@
 ## About Me
 just here for cute stuff hihi
 
-## My GitHub Stats
+## Stats
 ![Maica's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicaalmonte&show_icons=true&theme=radical)
 
 ## Top Languages
