@@ -8,7 +8,5 @@
 #
 #
 
-<div align="center" style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=maicaalmonte&show_icons=true&theme=transparent" alt="Maica's GitHub stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicaalmonte&layout=compact&theme=transparent" alt="Top Languages"/>
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicaalmonte&layout=compact&theme=transparent" alt="Top Languages">
