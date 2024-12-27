@@ -6,8 +6,6 @@
 
 🎀 just here for cute stuff
 #
-❗ github copilot and chatgpt assisted me in creating script since i dont have degree background in this shit hihi :) . dont judge me. trying my best to learn the technical terms and its technicalities :)
-#
 #
 
 
