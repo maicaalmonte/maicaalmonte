@@ -1,5 +1,5 @@
 #
-👩‍💻 automating my tasks so i could have more time to disassociate
+**👩‍💻 automating my tasks so i could have more time to disassociate**
 #
 <div>
   <img src="https://github.com/user-attachments/assets/952b807f-c249-40ff-ac03-c20bb845b098" width="400">
