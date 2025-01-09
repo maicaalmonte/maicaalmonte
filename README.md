@@ -13,7 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicaalmonte&layout=compact&theme=transparent" alt="Top Languages">
 
 #
-**🕸️my website😅:** 
+**🕸️my website:** 
 <br>
 <br> 🏃‍♀️deployed my website using the free peasant version, so some lagging is expected
 <br> 🧍‍♀️i'll improve the layout and add more features over time. but, dont get your hopes up
@@ -23,3 +23,6 @@
 <br>
 <br>   https://maicalisten.onrender.com
 <br>   https://maicoin.onrender.com
+#
+#
+**** web developer my ass 🤣😆😂
