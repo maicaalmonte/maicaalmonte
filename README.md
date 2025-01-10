@@ -21,9 +21,9 @@
 <br> 🤸‍♀️so, nothing is seriously serious here — just a pure hobby 
 <br> 💁‍♀️just me overexplaining
 <br>
-<br>   https://maicalisten.onrender.com
-<br>   https://maicoin.onrender.com
-<br>   https://foodcalculatour.onrender.com/
+<br>   https://maicalisten.onrender.com   (API: SPOTIFY DEVELOPER)
+<br>   https://maicoin.onrender.com  (API: COINGECKO, CRYPTOCOMPARE)
+<br>   https://foodcalculatour.onrender.com/    (API: OPENFOODFACTS)
 #
 #
 **** web developer my ass 🤣😆😂
