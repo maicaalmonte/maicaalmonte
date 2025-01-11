@@ -18,7 +18,9 @@
 <br> 🏃‍♀️deployed my website using the free peasant version, so some lagging is expected
 <br> 🧍‍♀️i'll improve the layout and add more features over time. but, dont get your hopes up
 <br> 🧘‍♀️this is just the byproduct of my overthinking and dissociative brain cells during a lucid interval
-<br> 🤸‍♀️so, nothing is seriously serious here — just a pure hobby 
+<br> 🤸‍♀️so, nothing is seriously serious here — just a pure hobby
+<br> 👩‍🦯i'll be creating multiple mediocre websites (not even half as mediocre), trying out different APIs until i find a better project to fixate on
+<br> 🧎‍♀️‍➡️also, still not a pro at this yet
 <br> 💁‍♀️just me overexplaining
 <br>
 <br>   https://maicalisten.onrender.com   (API: SPOTIFY DEVELOPER)
