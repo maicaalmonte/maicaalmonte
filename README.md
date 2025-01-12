@@ -1,5 +1,5 @@
 #
-**📌"Health is wealth. When your health declines, you think of nothing else in life but to feel physically better"😊**
+**📌"Health is wealth. When your health declines, you think of nothing else in life but feeling physically better"😊**
 #
 **👩‍💻 automating my tasks so i could have more time to disassociate**
 #
