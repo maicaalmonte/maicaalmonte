@@ -1,4 +1,6 @@
 #
+**📌"Health is wealth. When your health declines, you think of nothing else in life but to feel physically better"😊**
+#
 **👩‍💻 automating my tasks so i could have more time to disassociate**
 #
 <div>
